@@ -8,9 +8,9 @@
 * BOOTSTRAP5
 * JAVASCRIPT
 
-# 🖥 DEMO
+# 🖥 Demo
 ![cep-gb](https://github.com/user-attachments/assets/34ce252f-f61c-4fc5-94b7-6503ff04c503)
 
-You can access it with this <a href="https://cep-gabrielbarros.vercel.app/">Link</a>
+You can access it with this <a href="https://cep-gabrielbarros.vercel.app/">link</a>
 
 Developed by <a href="https://github.com/gabrieldebarross">Gabrie B.</a>
